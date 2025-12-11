@@ -1,0 +1,8 @@
+Need Matrix:
+P0: [5, 4, 2]
+P1: [2, 2, 0]
+P2: [9, -1, 1]
+P3: [2, 1, 0]
+P4: [3, 2, 3]
+
+System is NOT in a Safe State.
